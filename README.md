@@ -1,19 +1,19 @@
 # Employee-Attrition-Prediction-using-Machine-Learning-Algorithms
 
-##Problem Statement
+## Problem Statement
 Employee Attrition is the gradual reduction in employee numbers. Employee attrition happens when the size of your workspace diminishes over time. This means that employees are leaving faster than they are hired. Employee attrition happens when employees retire, resign or simply aren't replaced.
 
-##Dataset used
+## Dataset used
 Dataset is acquired from Kaggle: [https://www.kaggle.com/datasets/patelprashant/employee-attrition](URL)
 This dataset contains record of 1470 employees.
 It includes the following information about all these employees:	Attrition, Business Travel,	Daily Rate,	Department,	Distance From Home,	Education,	Education Field,	Employee Count,	Employee Number,	Environment Satisfaction,	Gender,	Hourly Rate,	Job Involvement,	Job Level,	Job Role,	Job Satisfaction,	Marital Status,	Monthly Income,	Monthly Rate,	Num Companies Worked,	Over18,	Over Time,	Percent Salary Hike,	Performance Rating,	Relationship Satisfaction,	Standard Hours,	Stock Option Level,	Total Working Years,	Training Times Last Year,	Work Life Balance,	Years At Company,	Years In Current Role,	Years Since Last Promotion,	Years With Curr Manager.
 
-##Machine Learning models used 
+## Machine Learning models used 
 1)Random Forest
 2)K Nearest Neighbors (KNN)
 3)Logical Regression
 
-##What have been done in the project
+## What have been done in the project
 1) Necessary Analysis n the given datasaet has been done
 2) Accuracy have been caculated using all the models which is 
    2.1 Random Forest- 86.413%
