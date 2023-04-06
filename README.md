@@ -14,7 +14,7 @@ It includes the following information about all these employees:	Attrition, Busi
 3)Logical Regression
 
 ## What have been done in the project
-1) Necessary Analysis n the given datasaet has been done
+1) Necessary Analysis in the given datasaet has been done
 2) Accuracy have been caculated using all the models which is 
    2.1 Random Forest- 86.413%
    2.2 KNN- 85.034%
